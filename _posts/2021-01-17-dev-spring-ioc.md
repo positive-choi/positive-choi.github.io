@@ -3,7 +3,7 @@ layout: post
 title:  "[Spring] IoC"
 subtitle:   "Spring doc"
 categories: dev
-tags: java spring ioc
+tags: spring ioc
 comments: true
 ---
 
