@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[JAVA] Study-2 primitiveType,referenceType,literal,scope"
-subtitle:   "primitiveType,referenceType,literal,scope"
+title:  "[JAVA] Study-3 다양한 연산자"
+subtitle:   "다양한 연산자"
 categories: dev
-tags: java primitiveType referenceType literal scope
+tags: java
 comments: true
 ---
 # 자바 스터디 3주차
